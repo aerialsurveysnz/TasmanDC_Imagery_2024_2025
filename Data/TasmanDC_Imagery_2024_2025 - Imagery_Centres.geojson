@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "name": "TasmanDC_Imagery_2024_2025 - Imagery_Centres",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "xy_coordinate_resolution": 1e-15,
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Project": "PGRM2854",
+                "Company_Name": null,
+                "SN_No": null,
+                "Description": null,
+                "OrthoGSD_m": 0.25,
+                "PointDensity_(points/m2)": null,
+                "Area": 5594.4434475598609,
+                "Percentage_Coverage": 100.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.78103230096869,
+                    -41.03129491379827
+                ]
+            }
+        }
+    ]
+}
